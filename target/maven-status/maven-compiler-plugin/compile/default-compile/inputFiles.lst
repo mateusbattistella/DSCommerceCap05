@@ -1,3 +1,9 @@
+C:\Cursos\Java\DSCommerceCap05\src\main\java\com\devsuperior\dscommerce\config\AuthorizationServerConfig.java
+C:\Cursos\Java\DSCommerceCap05\src\main\java\com\devsuperior\dscommerce\config\customgrant\CustomPasswordAuthenticationConverter.java
+C:\Cursos\Java\DSCommerceCap05\src\main\java\com\devsuperior\dscommerce\config\customgrant\CustomPasswordAuthenticationProvider.java
+C:\Cursos\Java\DSCommerceCap05\src\main\java\com\devsuperior\dscommerce\config\customgrant\CustomPasswordAuthenticationToken.java
+C:\Cursos\Java\DSCommerceCap05\src\main\java\com\devsuperior\dscommerce\config\customgrant\CustomUserAuthorities.java
+C:\Cursos\Java\DSCommerceCap05\src\main\java\com\devsuperior\dscommerce\config\ResourceServerConfig.java
 C:\Cursos\Java\DSCommerceCap05\src\main\java\com\devsuperior\dscommerce\controllers\handlers\ControllerExceptionHandler.java
 C:\Cursos\Java\DSCommerceCap05\src\main\java\com\devsuperior\dscommerce\controllers\ProductController.java
 C:\Cursos\Java\DSCommerceCap05\src\main\java\com\devsuperior\dscommerce\DscommerceApplication.java
@@ -12,8 +18,12 @@ C:\Cursos\Java\DSCommerceCap05\src\main\java\com\devsuperior\dscommerce\entities
 C:\Cursos\Java\DSCommerceCap05\src\main\java\com\devsuperior\dscommerce\entities\OrderStatus.java
 C:\Cursos\Java\DSCommerceCap05\src\main\java\com\devsuperior\dscommerce\entities\Payment.java
 C:\Cursos\Java\DSCommerceCap05\src\main\java\com\devsuperior\dscommerce\entities\Product.java
+C:\Cursos\Java\DSCommerceCap05\src\main\java\com\devsuperior\dscommerce\entities\Role.java
 C:\Cursos\Java\DSCommerceCap05\src\main\java\com\devsuperior\dscommerce\entities\User.java
+C:\Cursos\Java\DSCommerceCap05\src\main\java\com\devsuperior\dscommerce\projections\UserDetailsProjection.java
 C:\Cursos\Java\DSCommerceCap05\src\main\java\com\devsuperior\dscommerce\repositories\ProductRepository.java
+C:\Cursos\Java\DSCommerceCap05\src\main\java\com\devsuperior\dscommerce\repositories\UserRepository.java
 C:\Cursos\Java\DSCommerceCap05\src\main\java\com\devsuperior\dscommerce\services\exceptions\DatabaseException.java
 C:\Cursos\Java\DSCommerceCap05\src\main\java\com\devsuperior\dscommerce\services\exceptions\ResourceNotFoundException.java
 C:\Cursos\Java\DSCommerceCap05\src\main\java\com\devsuperior\dscommerce\services\ProductService.java
+C:\Cursos\Java\DSCommerceCap05\src\main\java\com\devsuperior\dscommerce\services\UserService.java
